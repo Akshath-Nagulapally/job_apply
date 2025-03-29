@@ -1,0 +1,22 @@
+{
+  "name": "job_apply",
+  "version": "1.0.0",
+  "description": "To setup:",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Akshath-Nagulapally/job_apply.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Akshath-Nagulapally/job_apply/issues"
+  },
+  "homepage": "https://github.com/Akshath-Nagulapally/job_apply#readme",
+  "devDependencies": {
+    "@playwright/test": "^1.51.1",
+    "@types/node": "^22.13.14"
+  }
+}

@@ -133,3 +133,10 @@ dmypy.json
 
 # Cython debug symbols
 cython_debug/
+
+# Playwright
+node_modules/
+/test-results/
+/playwright-report/
+/blob-report/
+/playwright/.cache/
